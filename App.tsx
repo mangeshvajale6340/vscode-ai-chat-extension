@@ -1,0 +1,1 @@
+export const App = () => <div>Hello from Chat UI</div>;
